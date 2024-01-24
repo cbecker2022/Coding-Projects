@@ -1,0 +1,13 @@
+S:\Nocti Job Two_Program\Nocti MP3 Website Sales\Nocti MP3 Website Sales\bin\Debug\Nocti MP3 Website Sales.exe.config
+S:\Nocti Job Two_Program\Nocti MP3 Website Sales\Nocti MP3 Website Sales\bin\Debug\Nocti MP3 Website Sales.exe
+S:\Nocti Job Two_Program\Nocti MP3 Website Sales\Nocti MP3 Website Sales\bin\Debug\Nocti MP3 Website Sales.pdb
+S:\Nocti Job Two_Program\Nocti MP3 Website Sales\Nocti MP3 Website Sales\obj\Debug\Nocti MP3 Website Sales.csproj.AssemblyReference.cache
+S:\Nocti Job Two_Program\Nocti MP3 Website Sales\Nocti MP3 Website Sales\obj\Debug\Nocti_MP3_Website_Sales.frmMain.resources
+S:\Nocti Job Two_Program\Nocti MP3 Website Sales\Nocti MP3 Website Sales\obj\Debug\Nocti_MP3_Website_Sales.Properties.Resources.resources
+S:\Nocti Job Two_Program\Nocti MP3 Website Sales\Nocti MP3 Website Sales\obj\Debug\Nocti MP3 Website Sales.csproj.GenerateResource.cache
+S:\Nocti Job Two_Program\Nocti MP3 Website Sales\Nocti MP3 Website Sales\obj\Debug\Nocti MP3 Website Sales.csproj.CoreCompileInputs.cache
+S:\Nocti Job Two_Program\Nocti MP3 Website Sales\Nocti MP3 Website Sales\obj\Debug\Nocti MP3 Website Sales.exe
+S:\Nocti Job Two_Program\Nocti MP3 Website Sales\Nocti MP3 Website Sales\obj\Debug\Nocti MP3 Website Sales.pdb
+S:\Nocti Job Two_Program\Nocti MP3 Website Sales\Nocti MP3 Website Sales\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+S:\Nocti Job Two_Program\Nocti MP3 Website Sales\Nocti MP3 Website Sales\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+S:\Nocti Job Two_Program\Nocti MP3 Website Sales\Nocti MP3 Website Sales\obj\Debug\Nocti MP3 Website Sales.csproj.CopyComplete
