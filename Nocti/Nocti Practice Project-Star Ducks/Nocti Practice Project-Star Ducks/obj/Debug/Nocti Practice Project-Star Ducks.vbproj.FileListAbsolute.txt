@@ -1,0 +1,12 @@
+C:\Users\Becker\Desktop\Nocti Practice Project\Nocti Practice Project-Star Ducks\Nocti Practice Project-Star Ducks\bin\Debug\Nocti Practice Project-Star Ducks.exe.config
+C:\Users\Becker\Desktop\Nocti Practice Project\Nocti Practice Project-Star Ducks\Nocti Practice Project-Star Ducks\bin\Debug\Nocti Practice Project-Star Ducks.exe
+C:\Users\Becker\Desktop\Nocti Practice Project\Nocti Practice Project-Star Ducks\Nocti Practice Project-Star Ducks\bin\Debug\Nocti Practice Project-Star Ducks.pdb
+C:\Users\Becker\Desktop\Nocti Practice Project\Nocti Practice Project-Star Ducks\Nocti Practice Project-Star Ducks\bin\Debug\Nocti Practice Project-Star Ducks.xml
+C:\Users\Becker\Desktop\Nocti Practice Project\Nocti Practice Project-Star Ducks\Nocti Practice Project-Star Ducks\obj\Debug\Nocti Practice Project-Star Ducks.vbprojAssemblyReference.cache
+C:\Users\Becker\Desktop\Nocti Practice Project\Nocti Practice Project-Star Ducks\Nocti Practice Project-Star Ducks\obj\Debug\Nocti_Practice_Project_Star_Ducks.frmStarDucks.resources
+C:\Users\Becker\Desktop\Nocti Practice Project\Nocti Practice Project-Star Ducks\Nocti Practice Project-Star Ducks\obj\Debug\Nocti_Practice_Project_Star_Ducks.Resources.resources
+C:\Users\Becker\Desktop\Nocti Practice Project\Nocti Practice Project-Star Ducks\Nocti Practice Project-Star Ducks\obj\Debug\Nocti Practice Project-Star Ducks.vbproj.GenerateResource.cache
+C:\Users\Becker\Desktop\Nocti Practice Project\Nocti Practice Project-Star Ducks\Nocti Practice Project-Star Ducks\obj\Debug\Nocti Practice Project-Star Ducks.vbproj.CoreCompileInputs.cache
+C:\Users\Becker\Desktop\Nocti Practice Project\Nocti Practice Project-Star Ducks\Nocti Practice Project-Star Ducks\obj\Debug\Nocti Practice Project-Star Ducks.exe
+C:\Users\Becker\Desktop\Nocti Practice Project\Nocti Practice Project-Star Ducks\Nocti Practice Project-Star Ducks\obj\Debug\Nocti Practice Project-Star Ducks.xml
+C:\Users\Becker\Desktop\Nocti Practice Project\Nocti Practice Project-Star Ducks\Nocti Practice Project-Star Ducks\obj\Debug\Nocti Practice Project-Star Ducks.pdb
